@@ -7,7 +7,6 @@ obj
 _ReSharper*
 dist
 output
-build
 
 *.csproj.user
 
