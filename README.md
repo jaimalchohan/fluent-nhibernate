@@ -1,5 +1,6 @@
 <img src="http://fluentnhibernate.org/images/logo.png" alt="Fluent NHibernate - Fluent mapping for your model" />
 =============================================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/jaimalchohan/fluent-nhibernate?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Fluent, XML-less, compile safe, automated, convention-based mappings for NHibernate. *Get your fluent on.*
 
